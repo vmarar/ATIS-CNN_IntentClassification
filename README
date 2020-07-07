@@ -2,3 +2,5 @@ Intent Classification Using ATIS Dataset.
 
 A complete breakdown of this project can be found on my medium article ! 
 https://medium.com/@vaishalimarar/creating-an-intent-classification-model-using-cnns-and-glove-b62ac7b1c839?source=friends_link&sk=07188583388ee1f8caf41d58286ee16a
+
+This project focused on creating a intent classification model that can be used for Airline Chatbots
